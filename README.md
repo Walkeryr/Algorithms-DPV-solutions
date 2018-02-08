@@ -1,2 +1,3 @@
-# algorithms-book-solutions
-Solutions for the book Algorithms [Dasgupta, Papadimitriou, Vazirani]
+# Purpose of this repo
+
+* Practice data visualizations
